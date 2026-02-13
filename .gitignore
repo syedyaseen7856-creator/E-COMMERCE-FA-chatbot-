@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.env.local
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Model and data caches
+models/
+**/cache/*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/

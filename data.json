@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p-001",
+    "title": "AeroFit Running Shoes",
+    "category": "product",
+    "source": "catalog",
+    "content": "AeroFit Running Shoes feature breathable mesh, responsive foam midsole, and a durable rubber outsole. Designed for road running and everyday wear, AeroFit offers excellent arch support and a lightweight feel. Available in sizes 6-13. Care instructions: machine wash cold, air dry; avoid bleach. Warranty: 1 year on manufacturing defects. Customer reviews highlight comfort on long runs and reliable traction on wet pavement.\n\nKey specs:\n- Upper: breathable engineered mesh\n- Midsole: responsive EVA foam\n- Outsole: carbon rubber for durability\n- Weight: 240g (size 9)\n\nSizing note: fits slightly narrow — consider ordering half size up if you have wide feet. For international shipping, refer to our shipping policy for delivery times and customs fees."
+  },
+  {
+    "id": "p-002",
+    "title": "Nimbus Insulated Jacket",
+    "category": "product",
+    "source": "catalog",
+    "content": "The Nimbus Insulated Jacket uses recycled insulation and a water-resistant shell. It packs into its inner pocket for travel. Features include adjustable hood, storm cuffs, and zippered pockets. Temperature rating: comfortable down to -5°C when layered. Care: spot clean or gentle cycle; do not tumble dry.\n\nReturns: eligible for free returns within 30 days. See return policy for exceptions related to final-sale items and international orders."
+  },
+  {
+    "id": "policy-shipping",
+    "title": "Shipping & Delivery Policy",
+    "category": "policy",
+    "source": "policies",
+    "content": "Orders are processed within 1-2 business days. Standard domestic shipping takes 3-7 business days. Expedited shipping options (2 business days) are available at checkout. International delivery times vary by destination and customs processing; typical ranges are 7-21 business days. Tracking numbers are provided via email once the order ships.\n\nShipping fees: calculated at checkout — free standard shipping on orders over $75 (domestic). Customers are responsible for customs duties and taxes for international shipments. Address changes after order placement may delay delivery and are not guaranteed.\n\nLost or damaged packages: if a package is marked delivered but you cannot locate it, contact customer support with your order number and tracking info so we can open an investigation with the carrier."
+  },
+  {
+    "id": "policy-returns",
+    "title": "Returns & Refunds",
+    "category": "policy",
+    "source": "policies",
+    "content": "We accept returns within 30 days of delivery for most new, unworn items with original tags. Final-sale items (marked as such) are not eligible for return. To start a return, visit your orders page and request an RMA; follow the instructions for shipping and packaging. Refunds are processed back to the original payment method within 5-10 business days after we receive the return.\n\nExceptions: damaged or defective items will be refunded or replaced at our discretion; please provide photos and a description when contacting support. International returns may be subject to additional fees and longer processing times."
+  }
+]
